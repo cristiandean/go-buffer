@@ -1,0 +1,8 @@
+# Log files
+*.log
+
+# IDE files
+.vscode/
+.idea/
+
+coverage.out
